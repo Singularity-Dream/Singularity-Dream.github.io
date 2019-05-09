@@ -1,0 +1,22 @@
+#sidemenu {
+	background-color: #76c1d4;
+	position: fixed;
+	padding-left: 10px;
+	top: 50px;
+	width: 200px;
+	line-height: 1.0em;
+	z-index: 10;}
+	
+#sidemenu2 {
+	text-indent: 20px;}
+
+#article {
+	position: relative;
+	left: 185px;
+	padding-top: 5px;
+	padding-left: 40px;
+	padding-bottom: 40px;
+	padding-right: 40px;
+	width: 50%;
+	background-color: #bccbde;
+	z-index: 1;}
