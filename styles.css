@@ -4,11 +4,12 @@
 	padding-left: 10px;
 	top: 50px;
 	width: 200px;
-	line-height: 1.0em;
+	line-height: 1.4em;
 	z-index: 10;}
 	
 #sidemenu2 {
-	text-indent: 20px;}
+	text-indent: 25px;
+	margin-top: -10px;}
 
 #article {
 	position: relative;
@@ -20,3 +21,12 @@
 	width: 50%;
 	background-color: #bccbde;
 	z-index: 1;}
+	
+#article h2 {
+	text-decoration: underline;}
+	
+#article h3 {
+	text-decoration: underline;}
+	
+a:link {
+	text-decoration: none;}
