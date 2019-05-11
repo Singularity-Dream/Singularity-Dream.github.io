@@ -8,11 +8,6 @@
 	z-index: 10;
 	box-shadow: 3px 3px 3px #000000;}
 	
-#sidemenu2 {
-	text-indent: 25px;
-	margin-top: -10px;
-	line-height: 0.5em;}
-
 #article {
 	position: relative;
 	left: 195px;
@@ -32,3 +27,12 @@
 	
 a:link {
 	text-decoration: none;}
+	
+.subsection {
+	margin-top: -8px;
+	line-height: 0.3em;
+	text-indent: 3em;}
+
+.subsection2 {
+	margin-top: -15px;
+	text-indent: 3em;}
